@@ -196,3 +196,6 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Containerization with Docker**
 - **Introduction to Time Series Analysis**
 - **Machine Learning Competitions**
+
+
+![machine_learning_poster](https://github.com/user-attachments/assets/2c96199c-b418-4095-bf5e-1be590f39897)
