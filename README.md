@@ -1,6 +1,6 @@
 # Machine Learning from Scratch & Its Privacy Implications
 
-## Begin Date: 8th July - Ongoing
+## Begin Date: 8th July - 26th August
 
 This course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations.
 
@@ -168,12 +168,8 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 
 ### Module 7: Model Interpretation and Deployment
 
-- **Model Interpretability and Explainable AI (XAI)**
-- **Model Deployment with Flask (or similar framework)**
-- **Privacy Concerns in Model Interpretation**
-  - **Risks of Exposing Sensitive Information through Interpretability**
-- **Privacy-Preserving Model Deployment**
-  - **Secure Multi-Party Computation for Model Serving**
+- **Kaggle Swag competition**
+
 - [Class 28 Video Link](https://web.facebook.com/iCodeguru/videos/1657940491631428)
 - [Class 29 Video Link](https://web.facebook.com/iCodeguru/videos/3763928390593592)
 - [Class 30 Video Link](https://web.facebook.com/iCodeguru/videos/4196521850634064)
@@ -181,7 +177,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - [Class 33 Video Link](https://web.facebook.com/iCodeguru/videos/1013797100283976)
 - [Class 34 Video Link](https://www.facebook.com/iCodeguru/videos/1834705580352310/)
 
-### Module 8: Unsupervised Machine Learning
+### Explore further to extend your learning
 
 - **Unsupervised Learning goals (e.g., clustering, dimensionality reduction)**
 - **Common applications (e.g., customer segmentation, anomaly detection)**
